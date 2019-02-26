@@ -17,6 +17,7 @@ def eprint(*args, **kwargs):
 
 R, C, L, H = list(map(int, input().split()))
 
+# fattibile in modo più efficiente, ma H <= 14
 def rettangoli(H):
     res = set()
     for i in range(1, H+1):
@@ -76,6 +77,8 @@ for _ in range(N_iter):
                         ok = True
                         t = 0
                         f = 0
+
+                        # fattibile in modo più efficiente ma fa niente
                         for z in range(i, i+r[0]):
                             t = t + pizza[z][j:j+r[1]].count('T')
                             f = f + pizza[z][j:j+r[1]].count('M')
