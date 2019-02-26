@@ -19,4 +19,5 @@ Big: 894249
 
 ## Info
 This work was part of a seminar held at the [Deparment of Computer Science](https://www.disi.unitn.it/) of the [University of Trento](https://www.disi.unitn.it/)
+
 Slides (in Italian) available [here]()
