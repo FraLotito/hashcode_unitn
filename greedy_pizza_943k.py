@@ -102,8 +102,7 @@ for _ in range(N_iter):
 
 print(len(sol))
 for i in sol:
-    print("{} {} {} {}".format(i[0], i[2], i[1], i[3]))
-    #out = str(i[0]) + ' ' + str(i[2]) + ' ' + str(i[1]) + ' ' + str(i[3])
-    #print(out)
+    out = str(i[0]) + ' ' + str(i[2]) + ' ' + str(i[1]) + ' ' + str(i[3])
+    print(out)
 
 eprint(max_area)
