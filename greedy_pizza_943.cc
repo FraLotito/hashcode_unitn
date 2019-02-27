@@ -2,6 +2,9 @@
 //info su stderr
 //risultati uguali alla soluzione in python
 
+//g++ file.cc -o ex -std=c++11
+//se non avete bits/stdc++.h (Mac) cercate su stackoverflow
+
 #include<bits/stdc++.h>
 #define pb push_back
 #define mp make_pair
