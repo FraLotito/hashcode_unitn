@@ -1,14 +1,25 @@
 # Google Hash Code @ UniTN
-Different solutions for the problem "Pizza" from the Google Hash Code Competition
+Different solutions for the practice problems ("Pizza" and "More Pizza") from the Google Hash Code Competition
 
-## Score
-Example: 15
+## Pizza (2019 and before)
+| **Dataset** | **Score** |
+|:-----------:|:---------:|
+|     Example |        15 |
+|       Small |        42 |
+|      Medium |    49'395 |
+|         Big |   894'249 |
 
-Small: 42
 
-Medium: 49395
+## More Pizza (2020 and after)
 
-Big: 894249
+|  **Dataset**  |  **Score**  |
+|:-------------:|:-----------:|
+|       Example |          16 |
+|         Small |          99 |
+|        Medium |       4'495 |
+|     Quite Big | 999'999'725 |
+|      Also Big | 504'999'983 |
+
 
 ## Authors
 [Giulia Carocari](https://github.com/geeooleea)
